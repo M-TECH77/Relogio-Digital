@@ -14,3 +14,5 @@
 
 #### As variáveis eram do tipo 'VAR' e mudei para 'LET'. Também mudei 'getElementById' para 'querySelector' e usei 'Arrow Function' no lugar de 'function()'
 
+##### Fiz uma alteração hoje - 21/11/2021
+
